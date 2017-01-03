@@ -68,7 +68,7 @@ Then open a terminal in that folder where you cloned WhaleOres and type this cod
 ```
 Then open Eclipse IDE then when a popup says to 'Select Workspace', go to where you cloned WhaleOres and pick the 'eclipse' folder.
 
-***Note - These instructions may not be exact, but feel free to edit the file to help Mac and Linux users build the mod.***
+**Note - These instructions may not be exact, but feel free to edit the file to help Mac and Linux users build the mod.**
 
 
 ### Creators
@@ -78,9 +78,8 @@ Then open Eclipse IDE then when a popup says to 'Select Workspace', go to where 
 
 ![TheModdedWhale](http://static.planetminecraft.com/files/avatar/2266444_0.png) [TheModdedWhale/CMDuale] - Code/Creator
 
-**Hidden links**
-
-[//]: 
+**There will be a Planet Minecraft/Curse Minecraft Forum link but that will be coming soon.**
+**Thanks for having a look at this mod and happy Minecrafting!**
 
 
    [whlore]: <https://github.com/cmduale/whaleores>
