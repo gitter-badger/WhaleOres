@@ -1,0 +1,7 @@
+package tk.themoddedwhale.WhaleOres;
+
+import net.minecraft.block.Block;
+
+public class CircuitBlock extends Block {
+
+}

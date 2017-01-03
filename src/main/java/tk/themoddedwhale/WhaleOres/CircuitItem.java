@@ -1,5 +1,7 @@
 package tk.themoddedwhale.WhaleOres;
 
-public class CircuitItem {
+import net.minecraft.item.Item;
+
+public class CircuitItem extends Item{
 
 }
