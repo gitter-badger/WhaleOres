@@ -20,7 +20,7 @@ public class WhaleOres {
 		//Item/Block init and registering
 		//Config handling
 		circuitItem = new CircuitItem().setUnlocalizedName("CircuitItem").setTextureName("ore:circuititem");
-		circuitBlock = new CircuitBlock(Material.cloth).setBlockName("CircuitBlock");
+		circuitBlock = new CircuitBlock(Material.cloth).setBlockName("CircuitBlock").setBlockTextureName("ore.circuitblock");
 		
 		
 		
