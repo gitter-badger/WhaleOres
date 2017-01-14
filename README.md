@@ -1,5 +1,7 @@
 # WhaleOres
 
+[![Join the chat at https://gitter.im/WhaleOres/Lobby](https://badges.gitter.im/WhaleOres/Lobby.svg)](https://gitter.im/WhaleOres/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![WhaleOres](https://www.dropbox.com/s/vfdmjoag3c436t0/WhaleOres.png?dl=1)](https://github.com/cmduale/whaleores)
 
 WhaleOres is a mod for specialized for the needs of the user. How it works:
